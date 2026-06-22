@@ -1,8 +1,8 @@
-- 👋 Hello I'm ONEX
+- 👋 Hello I'm Walleson
 - I'm a junior developer
-- And I'm studing JS, Web programing and Java
-- I plan to be a Senior developer with my experiencies in programming and studing programs 
-- It's a pleasure met new ways to write scripts and make softwares
+- I work as a Full Stack web developer
+- My dream is one day be a great senior dev with my hard work and experiences
+- It's a pleasure know more and more about software and how they were made.
 
 <!---
 ON3X7/ON3X7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
