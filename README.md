@@ -1,6 +1,7 @@
 - 👋 Hello I'm Walleson
 - I'm a junior developer
 - I work as a Full Stack web developer
+- I'm a Computer Engineering student and IT Technician (unfortunally not 'the greatest technician that ever lived')
 - My dream is one day be a great senior dev with my hard work and experiences
 - It's a pleasure know more and more about software and how they were made.
 
